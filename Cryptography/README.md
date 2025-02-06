@@ -18,7 +18,7 @@ The python code aes-cbc-crack provides cryptography-related functionalities usin
     Purpose: Converts a user-provided string into its hexadecimal representation.
     How to use: Send any string through the user parameter.
     Example:
-        curl 
+        curl http://127.0.0.1:5000/get_flag?user= 
 
 - Download the python code aes-ebc-crack on a Linux machine.
 - Allow execution through:
